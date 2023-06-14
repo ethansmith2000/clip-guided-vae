@@ -23,7 +23,7 @@ def run_args():
     cut_ov_gray = [0.1] * 1000
     reference_image = None
     reference_image_scale = 0.0
-    tv_scale = 130
+    tv_scale = 800
     range_scale = 300
     range_high = 0.99
     range_low = -0.99
